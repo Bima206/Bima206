@@ -14,7 +14,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://anugrahbimantara.my.id" target="blank"><img src="https://img.shields.io/badge/Website-anugrahbimantara.my.id-green?" /></a>
+    <a href="https://anugrahbimantara.my.id" target="blank"><img src="https://img.shields.io/badge/Website-anugrahbimantara.my.id-blue?" /></a>
 </p>
 
 <!--
