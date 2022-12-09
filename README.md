@@ -8,8 +8,8 @@
 
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Bima206&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bima206&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=bimantaraz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimantaraz&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
