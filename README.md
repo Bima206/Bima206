@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Bima! 
+# Hi there 👋, I'm Bima! 
 
 ### Tools:
 <p>
