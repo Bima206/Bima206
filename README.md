@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h3 align="center">A passionate AI and Cyber Security developer from Indonesia</h3>
+<h3 align="center">AI and Cyber ​​Security Developer from Indonesia</h3>
 
 <br>
 
